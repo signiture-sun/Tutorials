@@ -28,7 +28,7 @@ footer {
 	margin-top: 150px;
 }
 
-@media not screen and (min-width:378px) and (max-width:400px) {
+@media not screen and (min-width:750px) and (max-width:1500px) {
 	body {
 		visibility: hidden;
 	}
@@ -46,7 +46,7 @@ footer {
 		}
 }
 
-@media screen and (min-width:378px) and (max-width:400px) {
+@media screen and (min-width:750px) and (max-width:1500px) {
 	body {
 		background-image: url("/img/kakao_background.png");
 	}
